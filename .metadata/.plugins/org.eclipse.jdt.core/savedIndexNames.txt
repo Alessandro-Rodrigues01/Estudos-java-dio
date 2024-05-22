@@ -3,4 +3,3 @@ INDEX VERSION 1.134+C:\Users\User_Ale\Curso_dio\Estudos-java-dio\.metadata\.plug
 1865797976.index
 874384409.index
 4032504929.index
-2175250271.index
