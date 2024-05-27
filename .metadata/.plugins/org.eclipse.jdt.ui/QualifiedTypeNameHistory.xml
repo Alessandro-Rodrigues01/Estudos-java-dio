@@ -7,4 +7,8 @@
     <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.text.NumberFormat"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="application.CepInvalidoException"/>
 </qualifiedTypeNameHistroy>
