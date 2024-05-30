@@ -17,7 +17,7 @@ public class FormatadorCepExemplo {
 			
 			
 		}
-		return "99.99.999";
+		return "99.99.990";
 	}
 
 }
