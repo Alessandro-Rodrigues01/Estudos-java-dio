@@ -15,7 +15,8 @@ public class ExemploWhileCarrinho {
 			 * if (valorDoce > mesada) valorDoce = mesada;
 			 */
 
-			System.out.printf("Doce do valor:%.2f%s%n ", valorDoce, ", Adcionado no carrinho");
+			System.out.printf(""
+					+ "Doce do valor: %.2f%s%n ", valorDoce, ", Adcionado no carrinho");
 			mesada = mesada - valorDoce;
 
 		}
