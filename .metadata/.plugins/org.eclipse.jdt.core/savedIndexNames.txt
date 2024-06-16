@@ -1,7 +1,6 @@
 INDEX VERSION 1.134+C:\Users\User_Ale\Curso_dio\Estudos-java-dio\.metadata\.plugins\org.eclipse.jdt.core
 516105447.index
 550744667.index
-280914365.index
 365452937.index
 2041738235.index
 465042145.index
