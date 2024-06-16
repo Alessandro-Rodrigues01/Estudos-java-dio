@@ -4,7 +4,7 @@ public class SistemaDeMedida {
 
 	public static void main(String[] args) {
 		
-		String sigla = "L";
+		String sigla = "P";
 		switch (sigla) {
 		case "P":{
 			System.out.println("PEQUENO");
