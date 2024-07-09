@@ -48,9 +48,9 @@ public class AgendaEventos {
 		agendaEventos.adicionarEvento(LocalDate.of(2024, 07, 15), "Evento1", "Atração1");
 		agendaEventos.adicionarEvento(LocalDate.of(2024, 07, 8), "Evento2", "Atração2");
 		agendaEventos.adicionarEvento(LocalDate.of(2022, 07, 9), "Evento3", "Atração3");
-		
+
 		agendaEventos.exibirAgenda();
-		
+
 		agendaEventos.obterProximoEvento();
 		// System.out.println(LocalDate.now());
 	}
